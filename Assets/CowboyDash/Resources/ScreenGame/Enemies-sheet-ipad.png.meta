@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 8f267cd3a6d1cf14eba5b0adcac1a40a
+timeCreated: 1473393978
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemies-sheet-ipad_0
+    21300002: Enemies-sheet-ipad_1
+    21300004: Enemies-sheet-ipad_2
+    21300006: Enemies-sheet-ipad_3
+    21300008: Enemies-sheet-ipad_4
+    21300010: Enemies-sheet-ipad_5
+    21300012: Enemies-sheet-ipad_6
+    21300014: Enemies-sheet-ipad_7
+    21300016: Enemies-sheet-ipad_8
+    21300018: Enemies-sheet-ipad_9
+    21300020: Enemies-sheet-ipad_10
+    21300022: Enemies-sheet-ipad_11
+    21300024: Enemies-sheet-ipad_12
+    21300026: Enemies-sheet-ipad_13
+    21300028: Enemies-sheet-ipad_14
+    21300030: Enemies-sheet-ipad_15
+    21300032: Enemies-sheet-ipad_16
+    21300034: Enemies-sheet-ipad_17
+    21300036: Enemies-sheet-ipad_18
+    21300038: Enemies-sheet-ipad_19
+    21300040: Enemies-sheet-ipad_20
+    21300042: Enemies-sheet-ipad_21
+    21300044: Enemies-sheet-ipad_22
+    21300046: Enemies-sheet-ipad_23
+    21300048: Enemies-sheet-ipad_24
+    21300050: Enemies-sheet-ipad_25
+    21300052: Enemies-sheet-ipad_26
+    21300054: Enemies-sheet-ipad_27
+    21300056: Enemies-sheet-ipad_28
+    21300058: Enemies-sheet-ipad_29
+    21300060: Enemies-sheet-ipad_30
+    21300062: Enemies-sheet-ipad_31
+    21300064: Enemies-sheet-ipad_32
+    21300066: Enemies-sheet-ipad_33
+    21300068: Enemies-sheet-ipad_34
+    21300070: Enemies-sheet-ipad_35
+    21300072: Enemies-sheet-ipad_36
+    21300074: Enemies-sheet-ipad_37
+    21300076: Enemies-sheet-ipad_38
+    21300078: Enemies-sheet-ipad_39
+    21300080: Enemies-sheet-ipad_40
+    21300082: Enemies-sheet-ipad_41
+    21300084: Enemies-sheet-ipad_42
+    21300086: Enemies-sheet-ipad_43
+    21300088: Enemies-sheet-ipad_44
+    21300090: Enemies-sheet-ipad_45
+    21300092: Enemies-sheet-ipad_46
+    21300094: Enemies-sheet-ipad_47
+    21300096: Enemies-sheet-ipad_48
+    21300098: Enemies-sheet-ipad_49
+    21300100: Enemies-sheet-ipad_50
+    21300102: Enemies-sheet-ipad_51
+    21300104: Enemies-sheet-ipad_52
+    21300106: Enemies-sheet-ipad_53
+    21300108: Enemies-sheet-ipad_54
+    21300110: Enemies-sheet-ipad_55
+    21300112: Enemies-sheet-ipad_56
+    21300114: Enemies-sheet-ipad_57
+    21300116: Enemies-sheet-ipad_58
+    21300118: Enemies-sheet-ipad_59
+    21300120: Enemies-sheet-ipad_60
+    21300122: Enemies-sheet-ipad_61
+    21300124: Enemies-sheet-ipad_62
+    21300126: Enemies-sheet-ipad_63
+    21300128: Enemies-sheet-ipad_64
+    21300130: Enemies-sheet-ipad_65
+    21300132: Enemies-sheet-ipad_66
+    21300134: Enemies-sheet-ipad_67
+    21300136: Enemies-sheet-ipad_68
+    21300138: Enemies-sheet-ipad_69
+    21300140: Enemies-sheet-ipad_70
+    21300142: Enemies-sheet-ipad_71
+    21300144: Enemies-sheet-ipad_72
+    21300146: Enemies-sheet-ipad_73
+    21300148: Enemies-sheet-ipad_74
+    21300150: Enemies-sheet-ipad_75
+    21300152: Enemies-sheet-ipad_76
+    21300154: Enemies-sheet-ipad_77
+    21300156: Enemies-sheet-ipad_78
+    21300158: Enemies-sheet-ipad_79
+    21300160: Enemies-sheet-ipad_80
+    21300162: Enemies-sheet-ipad_81
+    21300164: Enemies-sheet-ipad_82
+    21300166: Enemies-sheet-ipad_83
+    21300168: Enemies-sheet-ipad_84
+    21300170: Enemies-sheet-ipad_85
+    21300172: Enemies-sheet-ipad_86
+    21300174: Enemies-sheet-ipad_87
+    21300176: Enemies-sheet-ipad_88
+    21300178: Enemies-sheet-ipad_89
+    21300180: Enemies-sheet-ipad_90
+    21300182: Enemies-sheet-ipad_91
+    21300184: Enemies-sheet-ipad_92
+    21300186: Enemies-sheet-ipad_93
+    21300188: Enemies-sheet-ipad_94
+    21300190: Enemies-sheet-ipad_95
+    21300192: Enemies-sheet-ipad_96
+    21300194: Enemies-sheet-ipad_97
+    21300196: Enemies-sheet-ipad_98
+    21300198: Enemies-sheet-ipad_99
+    21300200: Enemies-sheet-ipad_100
+    21300202: Enemies-sheet-ipad_101
+    21300204: Enemies-sheet-ipad_102
+    21300206: Enemies-sheet-ipad_103
+    21300208: Enemies-sheet-ipad_104
+    21300210: Enemies-sheet-ipad_105
+    21300212: Enemies-sheet-ipad_106
+    21300214: Enemies-sheet-ipad_107
+    21300216: Enemies-sheet-ipad_108
+    21300218: Enemies-sheet-ipad_109
+    21300220: Enemies-sheet-ipad_110
+    21300222: Enemies-sheet-ipad_111
+    21300224: Enemies-sheet-ipad_112
+    21300226: Enemies-sheet-ipad_113
+    21300228: Enemies-sheet-ipad_114
+    21300230: Enemies-sheet-ipad_115
+    21300232: Enemies-sheet-ipad_116
+    21300234: Enemies-sheet-ipad_117
+    21300236: Enemies-sheet-ipad_118
+    21300238: Enemies-sheet-ipad_119
+    21300240: Enemies-sheet-ipad_120
+    21300242: Enemies-sheet-ipad_121
+    21300244: Enemies-sheet-ipad_122
+    21300246: Enemies-sheet-ipad_123
+    21300248: Enemies-sheet-ipad_124
+    21300250: Enemies-sheet-ipad_125
+    21300252: Enemies-sheet-ipad_126
+    21300254: Enemies-sheet-ipad_127
+    21300256: Enemies-sheet-ipad_128
+    21300258: Enemies-sheet-ipad_129
+    21300260: Enemies-sheet-ipad_130
+    21300262: Enemies-sheet-ipad_131
+    21300264: Enemies-sheet-ipad_132
+    21300266: Enemies-sheet-ipad_133
+    21300268: Enemies-sheet-ipad_134
+    21300270: Enemies-sheet-ipad_135
+    21300272: Enemies-sheet-ipad_136
+    21300274: Enemies-sheet-ipad_137
+    21300276: Enemies-sheet-ipad_138
+    21300278: Enemies-sheet-ipad_139
+    21300280: Enemies-sheet-ipad_140
+    21300282: Enemies-sheet-ipad_141
+    21300284: Enemies-sheet-ipad_142
+    21300286: Enemies-sheet-ipad_143
+    21300288: Enemies-sheet-ipad_144
+    21300290: Enemies-sheet-ipad_145
+    21300292: Enemies-sheet-ipad_146
+    21300294: Enemies-sheet-ipad_147
+    21300296: Enemies-sheet-ipad_148
+    21300298: Enemies-sheet-ipad_149
+    21300300: Enemies-sheet-ipad_150
+    21300302: Enemies-sheet-ipad_151
+    21300304: Enemies-sheet-ipad_152
+    21300306: Enemies-sheet-ipad_153
+    21300308: Enemies-sheet-ipad_154
+    21300310: Enemies-sheet-ipad_155
+    21300312: Enemies-sheet-ipad_156
+    21300314: Enemies-sheet-ipad_157
+    21300316: Enemies-sheet-ipad_158
+    21300318: Enemies-sheet-ipad_159
+    21300320: Enemies-sheet-ipad_160
+    21300322: Enemies-sheet-ipad_161
+    21300324: Enemies-sheet-ipad_162
+    21300326: Enemies-sheet-ipad_163
+    21300328: Enemies-sheet-ipad_164
+    21300330: Enemies-sheet-ipad_165
+    21300332: Enemies-sheet-ipad_166
+    21300334: Enemies-sheet-ipad_167
+    21300336: Enemies-sheet-ipad_168
+    21300338: Enemies-sheet-ipad_169
+    21300340: Enemies-sheet-ipad_170
+    21300342: Enemies-sheet-ipad_171
+    21300344: Enemies-sheet-ipad_172
+    21300346: Enemies-sheet-ipad_173
+    21300348: Enemies-sheet-ipad_174
+    21300350: Enemies-sheet-ipad_175
+    21300352: Enemies-sheet-ipad_176
+    21300354: Enemies-sheet-ipad_177
+    21300356: Enemies-sheet-ipad_178
+    21300358: Enemies-sheet-ipad_179
+    21300360: Enemies-sheet-ipad_180
+    21300362: Enemies-sheet-ipad_181
+    21300364: Enemies-sheet-ipad_182
+    21300366: Enemies-sheet-ipad_183
+    21300368: Enemies-sheet-ipad_184
+    21300370: Enemies-sheet-ipad_185
+    21300372: Enemies-sheet-ipad_186
+    21300374: Enemies-sheet-ipad_187
+    21300376: Enemies-sheet-ipad_188
+    21300378: Enemies-sheet-ipad_189
+    21300380: Enemies-sheet-ipad_190
+    21300382: Enemies-sheet-ipad_191
+    21300384: Enemies-sheet-ipad_192
+    21300386: Enemies-sheet-ipad_193
+    21300388: Enemies-sheet-ipad_194
+    21300390: Enemies-sheet-ipad_195
+    21300392: Enemies-sheet-ipad_196
+    21300394: Enemies-sheet-ipad_197
+    21300396: Enemies-sheet-ipad_198
+    21300398: Enemies-sheet-ipad_199
+    21300400: Enemies-sheet-ipad_200
+    21300402: Enemies-sheet-ipad_201
+    21300404: Enemies-sheet-ipad_202
+    21300406: Enemies-sheet-ipad_203
+    21300408: Enemies-sheet-ipad_204
+    21300410: Enemies-sheet-ipad_205
+    21300412: Enemies-sheet-ipad_206
+    21300414: Enemies-sheet-ipad_207
+    21300416: Enemies-sheet-ipad_208
+    21300418: Enemies-sheet-ipad_209
+    21300420: Enemies-sheet-ipad_210
+    21300422: Enemies-sheet-ipad_211
+    21300424: Enemies-sheet-ipad_212
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 790
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 846
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_6
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 844
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_9
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 910
+        width: 81
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 830
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 874
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 777
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_45
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 798
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_63
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 664
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 536
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_69
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 646
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 680
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_73
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 671
+        width: 165
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_88
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 686
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_92
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 590
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_104
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 658
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_105
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 629
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_106
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 626
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_107
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 632
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_108
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 528
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_109
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 528
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_110
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 528
+        width: 97
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_112
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 496
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_113
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 518
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_116
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 457
+        width: 157
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_117
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 476
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 177
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 350
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_128
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 463
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_131
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 402
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_132
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 414
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_133
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 414
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_134
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 414
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_135
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 460
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 314
+        width: 117
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5884435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_137
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 309
+        width: 121
+        height: 133
+      alignment: 9
+      pivot: {x: 0.45322034, y: 0.6021421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_138
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 311
+        width: 116
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4707226, y: 0.5950597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_139
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 410
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_140
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 406
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_141
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 424
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_142
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 309
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_143
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 323
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_144
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 300
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_145
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 300
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_146
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 343
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_147
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 353
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_148
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 291
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_149
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_150
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 296
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_151
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 207
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_152
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 200
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_153
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 200
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_154
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 200
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_155
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 208
+        width: 81
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_156
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 302
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_157
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 107
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_160
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 159
+        width: 116
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4905898, y: 0.61354274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_161
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 200
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_162
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 209
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_163
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 208
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_164
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 215
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_165
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 208
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_166
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 132
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_167
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 179
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_168
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 115
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_169
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_170
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 113
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_171
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 114
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_172
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 116
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_173
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 111
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_174
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 117
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_175
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 119
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_176
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 96
+        width: 81
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_177
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_179
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 140
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 46
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_181
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_182
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_183
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_184
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_185
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_186
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 15
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_187
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 55
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_188
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 97
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_189
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 82
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_190
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_191
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_192
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 55
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_193
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 35
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_194
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 25
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_195
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 39
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_196
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 46
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_197
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_198
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_199
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_200
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_202
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 7
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_203
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_204
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 6
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_207
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipad_208
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

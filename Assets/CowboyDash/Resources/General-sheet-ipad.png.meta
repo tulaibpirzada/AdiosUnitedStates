@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: c7de1753f8e991844b4756bd0377b603
+timeCreated: 1473865174
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: General-sheet-ipad_0
+    21300002: General-sheet-ipad_1
+    21300004: General-sheet-ipad_2
+    21300006: General-sheet-ipad_3
+    21300008: General-sheet-ipad_4
+    21300010: General-sheet-ipad_5
+    21300012: General-sheet-ipad_6
+    21300014: General-sheet-ipad_7
+    21300016: General-sheet-ipad_8
+    21300018: General-sheet-ipad_9
+    21300020: General-sheet-ipad_10
+    21300022: General-sheet-ipad_11
+    21300024: General-sheet-ipad_12
+    21300026: General-sheet-ipad_13
+    21300028: General-sheet-ipad_14
+    21300030: General-sheet-ipad_15
+    21300032: General-sheet-ipad_16
+    21300034: General-sheet-ipad_17
+    21300036: General-sheet-ipad_18
+    21300038: General-sheet-ipad_19
+    21300040: General-sheet-ipad_20
+    21300042: General-sheet-ipad_21
+    21300044: General-sheet-ipad_22
+    21300046: General-sheet-ipad_23
+    21300048: General-sheet-ipad_24
+    21300050: General-sheet-ipad_25
+    21300052: General-sheet-ipad_26
+    21300054: General-sheet-ipad_27
+    21300056: General-sheet-ipad_28
+    21300058: General-sheet-ipad_29
+    21300060: General-sheet-ipad_30
+    21300062: General-sheet-ipad_31
+    21300064: General-sheet-ipad_32
+    21300066: General-sheet-ipad_33
+    21300068: General-sheet-ipad_34
+    21300070: General-sheet-ipad_35
+    21300072: General-sheet-ipad_36
+    21300074: General-sheet-ipad_37
+    21300076: General-sheet-ipad_38
+    21300078: General-sheet-ipad_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: General-sheet-ipad_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 941
+        width: 365
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 928
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 322
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 830
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 322
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 732
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 656
+        width: 265
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 660
+        width: 168
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 581
+        width: 180
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 60
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 479
+        width: 203
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 508
+        width: 168
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 388
+        width: 149
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 429
+        width: 180
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 344
+        width: 214
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 290
+        width: 161
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 252
+        width: 227
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 128
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 196
+        width: 161
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 198
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 202
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 202
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 98
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 108
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 102
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: General-sheet-ipad_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 26
+        width: 126
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: a84fa84b7240506439083b8346f085d1
+timeCreated: 1472881707
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character-sheet-ipad_0
+    21300002: Character-sheet-ipad_1
+    21300004: Character-sheet-ipad_2
+    21300006: Character-sheet-ipad_3
+    21300008: Character-sheet-ipad_4
+    21300010: Character-sheet-ipad_5
+    21300012: Character-sheet-ipad_6
+    21300014: Character-sheet-ipad_11
+    21300016: Character-sheet-ipad_15
+    21300018: Character-sheet-ipad_19
+    21300020: Character-sheet-ipad_25
+    21300022: Character-sheet-ipad_26
+    21300024: Character-sheet-ipad_27
+    21300026: Character-sheet-ipad_28
+    21300028: Character-sheet-ipad_34
+    21300030: Character-sheet-ipad_35
+    21300032: Character-sheet-ipad_36
+    21300034: Character-sheet-ipad_37
+    21300036: Character-sheet-ipad_38
+    21300038: Character-sheet-ipad_39
+    21300040: Character-sheet-ipad_44
+    21300042: Character-sheet-ipad_45
+    21300044: Character-sheet-ipad_46
+    21300046: Character-sheet-ipad_47
+    21300048: Character-sheet-ipad_49
+    21300050: Character-sheet-ipad_50
+    21300052: Character-sheet-ipad_51
+    21300054: Character-sheet-ipad_53
+    21300056: Character-sheet-ipad_54
+    21300058: Character-sheet-ipad_56
+    21300060: Character-sheet-ipad_57
+    21300062: Character-sheet-ipad_59
+    21300064: Character-sheet-ipad_60
+    21300066: Character-sheet-ipad_63
+    21300068: Character-sheet-ipad_64
+    21300070: Character-sheet-ipad_65
+    21300072: Character-sheet-ipad_66
+    21300074: Character-sheet-ipad_67
+    21300076: Character-sheet-ipad_68
+    21300078: Character-sheet-ipad_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character-sheet-ipad_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 311
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 315
+        width: 170
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 379
+        width: 128
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 380
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 378
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_6
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 458
+        width: 86
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 332
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_15
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 408
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 377
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_25
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 271
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 277
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_27
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 268
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 328
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 205
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 210
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 205
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_38
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 297
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 174
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_45
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 158
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_46
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 161
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_47
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 217
+        width: 115
+        height: 49
+      alignment: 9
+      pivot: {x: 0.51983804, y: 0.25389442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 92
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_50
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 95
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_51
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 188
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 150
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 101
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_56
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 49
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_57
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 121
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 56
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_60
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 51
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_63
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 47
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 26
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_67
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 62
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_68
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 59
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Character-sheet-ipad_69
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 26
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

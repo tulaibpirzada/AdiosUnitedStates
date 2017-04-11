@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: b19922df07708744c93fea8e45328473
+timeCreated: 1473868739
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Home-sheet-ipad_0
+    21300002: Home-sheet-ipad_1
+    21300004: Home-sheet-ipad_2
+    21300006: Home-sheet-ipad_3
+    21300008: Home-sheet-ipad_4
+    21300010: Home-sheet-ipad_5
+    21300012: Home-sheet-ipad_6
+    21300014: Home-sheet-ipad_7
+    21300016: Home-sheet-ipad_8
+    21300018: Home-sheet-ipad_9
+    21300020: Home-sheet-ipad_10
+    21300022: Home-sheet-ipad_11
+    21300024: Home-sheet-ipad_12
+    21300026: Home-sheet-ipad_13
+    21300028: Home-sheet-ipad_14
+    21300030: Home-sheet-ipad_15
+    21300032: Home-sheet-ipad_16
+    21300034: Home-sheet-ipad_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Home-sheet-ipad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 722
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 610
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 613
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 590
+        width: 25
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 337
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 459
+        width: 422
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 319
+        width: 309
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 322
+        width: 295
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 334
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 115
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 182
+        width: 295
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 223
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 220
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 39
+        width: 309
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 122
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 125
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 24
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Home-sheet-ipad_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 26
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
